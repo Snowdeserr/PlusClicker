@@ -1,0 +1,2 @@
+# PlusClicker
+Clicker Plugin
